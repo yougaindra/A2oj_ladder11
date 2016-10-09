@@ -1,0 +1,1 @@
+print 4 - len(list(set(map(int,raw_input().split()))))
